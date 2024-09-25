@@ -1,0 +1,7 @@
+This is my text file.
+
+It has text in it.
+
+Lucy wrote this original file.
+
+It can be updated if you wish.
