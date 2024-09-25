@@ -1,7 +1,9 @@
 This is my text file.
 
-It has text in it.
+It has text in it. That's cool!
 
-Lucy wrote this original file.
+The file was added by Lucy Sheppard.
 
 It can be updated if you wish.
+
+Here's a new line.
