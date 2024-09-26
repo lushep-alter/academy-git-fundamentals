@@ -1,5 +1,7 @@
 # git and GitHub Fundamentals training 🧑‍🏫
 
+Hi Lucy!!
+
 ## Getting started 🧑‍💻
 
 There are two options for you to get started with the material.
